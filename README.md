@@ -144,9 +144,3 @@ Y por último, para correr tu Shiny App recuerda colocar el siguiente código:
 
         shinyApp(ui = ui, server = server)
 
-## Screenshots
-
-![App Screenshot]("C:/Users/gotod/Documents/curso_R/PruebaSESNSP/Grafica1.png")
-![App Screenshot]("C:/Users/gotod/Documents/curso_R/PruebaSESNSP/Grafica2.png)
-![App Screenshot]("C:/Users/gotod/Documents/curso_R/PruebaSESNSP/Grafica3.png)
-![App Screenshot]("C:/Users/gotod/Documents/curso_R/PruebaSESNSP/Referencia.png")
